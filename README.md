@@ -64,6 +64,31 @@ src/
 | `/privacy` | Politique de confidentialité |
 | `*` | Page 404 |
 
+## Déploiement (Render)
+
+Le fichier [`render.yaml`](./render.yaml) décrit le déploiement en **Static Site** (CDN, gratuit) avec le *rewrite* SPA nécessaire à React Router.
+
+### Option A — Blueprint (recommandé)
+
+1. Sur [Render Dashboard](https://dashboard.render.com/) : **New > Blueprint**.
+2. Sélectionnez le dépôt `mamadouthiam0020/Lomina` et la branche `main`.
+3. Render lit `render.yaml` et crée le site. Validez.
+
+### Option B — Manuel
+
+**New > Static Site**, puis :
+
+| Champ | Valeur |
+| --- | --- |
+| Branch | `main` |
+| Build Command | `npm install && npm run build` |
+| Publish Directory | `dist` |
+
+Puis dans l'onglet **Redirects/Rewrites**, ajoutez une règle :
+Source `/*` → Destination `/index.html` → Action **Rewrite** (indispensable au routage côté client).
+
+Le site est ensuite republié automatiquement à chaque `git push` sur `main`.
+
 ## Contact
 
 **Mme Amar Amina** — CEO
