@@ -16,11 +16,17 @@ export default function Footer() {
           <div className="flex flex-col gap-5">
             <img
               src={logoBlanc}
-              alt="LOMINA INTERNATIONAL LINKS"
+              alt="Lomina Group — LOMINA INTERNATIONAL LINKS"
               width="64"
               height="64"
               className="h-16 w-16 object-contain"
             />
+            <p className="font-display text-sm tracking-[0.18em] text-white uppercase">
+              Lomina Group
+              <span className="mt-1 block text-[10px] tracking-[0.24em] text-white/55">
+                LOMINA INTERNATIONAL LINKS
+              </span>
+            </p>
             <address className="flex flex-col gap-2 text-xs tracking-[0.06em] text-white/70 not-italic">
               <span>
                 <span className="text-white">{contact.ceoName}</span>
@@ -88,7 +94,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-14 flex flex-col gap-3 border-t border-white/10 pt-6 text-[10px] tracking-[0.18em] text-white/45 uppercase sm:flex-row sm:items-center sm:justify-between">
-          <p>© {YEAR} LOMINA INTERNATIONAL LINKS. {t.footer.rights}</p>
+          <p>© {YEAR} Lomina Group — LOMINA INTERNATIONAL LINKS. {t.footer.rights}</p>
           <p>{t.hero.signature}</p>
         </div>
       </div>

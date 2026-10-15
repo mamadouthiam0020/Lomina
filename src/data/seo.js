@@ -2,94 +2,94 @@
 export const seo = {
   '/': {
     fr: {
-      title: 'LOMINA INTERNATIONAL LINKS | Relations, Investissements et Grands Projets',
+      title: 'Lomina Group — LOMINA INTERNATIONAL LINKS | Relations, Investissements et Grands Projets',
       description:
-        'LOMINA INTERNATIONAL LINKS développe les relations économiques internationales, accompagne les investissements et contribue à la réalisation de grands projets structurants.',
+        'Lomina Group (LOMINA INTERNATIONAL LINKS) développe les relations économiques internationales, accompagne les investissements et contribue à la réalisation de grands projets structurants.',
     },
     en: {
-      title: 'LOMINA INTERNATIONAL LINKS | Relations, Investments and Major Projects',
+      title: 'Lomina Group — LOMINA INTERNATIONAL LINKS | Relations, Investments and Major Projects',
       description:
-        'LOMINA INTERNATIONAL LINKS develops international economic relations, supports investment and contributes to the delivery of major structuring projects.',
+        'Lomina Group (LOMINA INTERNATIONAL LINKS) develops international economic relations, supports investment and contributes to the delivery of major structuring projects.',
     },
   },
   '/about': {
     fr: {
-      title: 'Qui sommes-nous ? | LOMINA INTERNATIONAL LINKS',
+      title: 'Qui sommes-nous ? | Lomina Group',
       description:
-        "LOMINA INTERNATIONAL LINKS œuvre au développement des relations économiques internationales, à l'accompagnement des investissements et à la réalisation de grands projets structurants.",
+        "Lomina Group (LOMINA INTERNATIONAL LINKS) œuvre au développement des relations économiques internationales, à l'accompagnement des investissements et à la réalisation de grands projets structurants.",
     },
     en: {
-      title: 'About us | LOMINA INTERNATIONAL LINKS',
+      title: 'About us | Lomina Group',
       description:
-        'LOMINA INTERNATIONAL LINKS works to develop international economic relations, support investment and deliver major structuring projects.',
+        'Lomina Group (LOMINA INTERNATIONAL LINKS) works to develop international economic relations, support investment and deliver major structuring projects.',
     },
   },
   '/projects': {
     fr: {
-      title: 'Projets en développement | LOMINA INTERNATIONAL LINKS',
+      title: 'Projets en développement | Lomina Group',
       description:
-        'Découvrez les grands projets portés par LOMINA INTERNATIONAL LINKS : courses internationales, marinas, infrastructures et développement urbain.',
+        'Découvrez les grands projets portés par Lomina Group (LOMINA INTERNATIONAL LINKS) : courses internationales, marinas, infrastructures et développement urbain.',
     },
     en: {
-      title: 'Projects in development | LOMINA INTERNATIONAL LINKS',
+      title: 'Projects in development | Lomina Group',
       description:
-        'Discover the major projects led by LOMINA INTERNATIONAL LINKS: international races, marinas, infrastructure and urban development.',
+        'Discover the major projects led by Lomina Group (LOMINA INTERNATIONAL LINKS): international races, marinas, infrastructure and urban development.',
     },
   },
   '/partners': {
     fr: {
-      title: 'Nos partenaires | LOMINA INTERNATIONAL LINKS',
+      title: 'Nos partenaires | Lomina Group',
       description:
         'Un réseau international de partenaires réunissant institutions, entreprises et investisseurs.',
     },
     en: {
-      title: 'Our partners | LOMINA INTERNATIONAL LINKS',
+      title: 'Our partners | Lomina Group',
       description:
         'An international network of partners bringing together institutions, companies and investors.',
     },
   },
   '/news': {
     fr: {
-      title: 'Actualités | LOMINA INTERNATIONAL LINKS',
+      title: 'Actualités | Lomina Group',
       description:
-        'Les initiatives, projets et événements portés par LOMINA INTERNATIONAL LINKS.',
+        'Les initiatives, projets et événements portés par Lomina Group (LOMINA INTERNATIONAL LINKS).',
     },
     en: {
-      title: 'News | LOMINA INTERNATIONAL LINKS',
+      title: 'News | Lomina Group',
       description:
-        'Initiatives, projects and events led by LOMINA INTERNATIONAL LINKS.',
+        'Initiatives, projects and events led by Lomina Group (LOMINA INTERNATIONAL LINKS).',
     },
   },
   '/contact': {
     fr: {
-      title: 'Contact | LOMINA INTERNATIONAL LINKS',
+      title: 'Contact | Lomina Group',
       description:
-        "Contactez LOMINA INTERNATIONAL LINKS pour toute demande de partenariat, d'investissement ou d'information.",
+        "Contactez Lomina Group (LOMINA INTERNATIONAL LINKS) pour toute demande de partenariat, d'investissement ou d'information.",
     },
     en: {
-      title: 'Contact | LOMINA INTERNATIONAL LINKS',
+      title: 'Contact | Lomina Group',
       description:
-        'Contact LOMINA INTERNATIONAL LINKS for any partnership, investment or information request.',
+        'Contact Lomina Group (LOMINA INTERNATIONAL LINKS) for any partnership, investment or information request.',
     },
   },
   '/legal': {
     fr: {
-      title: 'Mentions légales | LOMINA INTERNATIONAL LINKS',
-      description: 'Mentions légales de LOMINA INTERNATIONAL LINKS.',
+      title: 'Mentions légales | Lomina Group',
+      description: 'Mentions légales de Lomina Group (LOMINA INTERNATIONAL LINKS).',
     },
     en: {
-      title: 'Legal notice | LOMINA INTERNATIONAL LINKS',
-      description: 'Legal notice of LOMINA INTERNATIONAL LINKS.',
+      title: 'Legal notice | Lomina Group',
+      description: 'Legal notice of Lomina Group (LOMINA INTERNATIONAL LINKS).',
     },
   },
   '/privacy': {
     fr: {
-      title: 'Politique de confidentialité | LOMINA INTERNATIONAL LINKS',
-      description: 'Politique de confidentialité de LOMINA INTERNATIONAL LINKS.',
+      title: 'Politique de confidentialité | Lomina Group',
+      description: 'Politique de confidentialité de Lomina Group (LOMINA INTERNATIONAL LINKS).',
     },
     en: {
-      title: 'Privacy policy | LOMINA INTERNATIONAL LINKS',
-      description: 'Privacy policy of LOMINA INTERNATIONAL LINKS.',
+      title: 'Privacy policy | Lomina Group',
+      description: 'Privacy policy of Lomina Group (LOMINA INTERNATIONAL LINKS).',
     },
   },
 }

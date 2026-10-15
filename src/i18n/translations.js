@@ -21,7 +21,7 @@ export const translations = {
       logoTitles: 'LOMINA INTERNATIONAL LINKS — Accueil',
     },
     hero: {
-      eyebrow: 'LOMINA INTERNATIONAL LINKS',
+      eyebrow: 'LOMINA GROUP',
       title: "DES LIENS QUI\nCRÉENT DE L'AVENIR",
       cta: 'DÉCOUVRIR LOMINA',
       imageAlt:
@@ -69,11 +69,11 @@ export const translations = {
     pages: {
       about: {
         title: 'QUI SOMMES-NOUS ?',
-        lead: "LOMINA INTERNATIONAL LINKS œuvre au développement des relations économiques internationales, à l'accompagnement des investissements et à la réalisation de grands projets structurants.",
+        lead: "Lomina Group (LOMINA INTERNATIONAL LINKS) œuvre au développement des relations économiques internationales, à l'accompagnement des investissements et à la réalisation de grands projets structurants.",
         body: [
           "Nous favorisons la coopération et la mise en réseau entre institutions, entreprises et investisseurs à l'international.",
           "Notre action couvre le conseil stratégique, la structuration de partenariats ainsi que la promotion et la coordination de grands projets : infrastructures, marinas, tourisme, événements internationaux et développement urbain.",
-          "Présente sur cinq continents, LOMINA s'appuie sur un réseau international de partenaires pour créer des liens durables et porteurs d'avenir.",
+          "Présente sur cinq continents, Lomina Group s'appuie sur un réseau international de partenaires pour créer des liens durables et porteurs d'avenir.",
         ],
       },
       partners: {
@@ -140,7 +140,7 @@ export const translations = {
       logoTitles: 'LOMINA INTERNATIONAL LINKS — Home',
     },
     hero: {
-      eyebrow: 'LOMINA INTERNATIONAL LINKS',
+      eyebrow: 'LOMINA GROUP',
       title: 'LINKS THAT\nCREATE THE FUTURE',
       cta: 'DISCOVER LOMINA',
       imageAlt:
@@ -188,11 +188,11 @@ export const translations = {
     pages: {
       about: {
         title: 'ABOUT US',
-        lead: 'LOMINA INTERNATIONAL LINKS works to develop international economic relations, support investment and deliver major structuring projects.',
+        lead: 'Lomina Group (LOMINA INTERNATIONAL LINKS) works to develop international economic relations, support investment and deliver major structuring projects.',
         body: [
           'We foster cooperation and networking between institutions, companies and investors worldwide.',
           'Our work covers strategic advisory, the structuring of partnerships as well as the promotion and coordination of major projects: infrastructure, marinas, tourism, international events and urban development.',
-          'Present on five continents, LOMINA relies on an international network of partners to build lasting links that shape the future.',
+          'Present on five continents, Lomina Group relies on an international network of partners to build lasting links that shape the future.',
         ],
       },
       partners: {
