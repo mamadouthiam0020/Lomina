@@ -92,6 +92,7 @@ export const translations = {
         title: 'CONTACT',
         lead: "Pour toute demande de partenariat, d'investissement ou d'information, utilisez le formulaire ci-dessous.",
         detailsTitle: 'Coordonnées',
+        formTitle: 'Écrivez-nous',
         ceoLabel: 'CEO',
         phoneLabel: 'Téléphone',
         emailLabel: 'E-mail',
@@ -107,6 +108,7 @@ export const translations = {
         submit: 'Envoyer le message',
         success:
           'Merci. Votre message a bien été enregistré et sera transmis via le canal officiel.',
+        again: 'Nouveau message',
         required: 'Ce champ est obligatoire.',
         invalidEmail: 'Veuillez saisir une adresse e-mail valide.',
       },
@@ -211,6 +213,7 @@ export const translations = {
         title: 'CONTACT',
         lead: 'For any partnership, investment or information request, please use the form below.',
         detailsTitle: 'Contact details',
+        formTitle: 'Write to us',
         ceoLabel: 'CEO',
         phoneLabel: 'Phone',
         emailLabel: 'Email',
@@ -226,6 +229,7 @@ export const translations = {
         submit: 'Send message',
         success:
           'Thank you. Your message has been recorded and will be forwarded through the official channel.',
+        again: 'New message',
         required: 'This field is required.',
         invalidEmail: 'Please enter a valid email address.',
       },
